@@ -2,7 +2,7 @@
 
 [liballegro](https://liballeg.org)
 
-Should be enought to just clone and open in Android Studio.
+Should be enough to just clone and open in Android Studio.
 
 Tested on Android 11.
 
